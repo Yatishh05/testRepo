@@ -1,9 +1,3 @@
-//
-//  Login_LabTests.swift
-//  Login_LabTests
-//
-//  Created by Sagar Midha on 18/07/25.
-//
 
 import Testing
 @testable import Login_Lab

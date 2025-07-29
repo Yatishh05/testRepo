@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Login_Lab
-//
-//  Created by Sagar Midha on 18/07/25.
-//
 
 import UIKit
 

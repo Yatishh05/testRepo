@@ -60,7 +60,9 @@ class ViewController: UIViewController {
     func updateGameState(){
         if currentGame.incorrectMovesRemaining == 0 { totalLosses += 1 }
         else if currentGame.word == currentGame.formattedWord { totalWins += 1 }
-        else { updateUI() }
+        else {
+            updateUI()
+        }
     }
     @IBAction func letterButtonPressed(_ sender: UIButton) {
         sender.isEnabled = false

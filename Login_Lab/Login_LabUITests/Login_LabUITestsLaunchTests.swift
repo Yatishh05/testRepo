@@ -1,9 +1,4 @@
-//
-//  Login_LabUITestsLaunchTests.swift
-//  Login_LabUITests
-//
-//  Created by Sagar Midha on 18/07/25.
-//
+
 
 import XCTest
 
