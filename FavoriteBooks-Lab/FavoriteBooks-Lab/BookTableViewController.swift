@@ -1,9 +1,3 @@
-//
-//  BookTableViewController.swift
-//  FavoriteBooks-Lab
-//
-//  Created by Varun Saini on 25/08/25.
-//
 
 import UIKit
 

@@ -1,9 +1,3 @@
-//
-//  SceneDelegate.swift
-//  MealTracker- lab
-//
-//  Created by Varun Saini on 18/08/25.
-//
 
 import UIKit
 
